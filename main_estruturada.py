@@ -1,9 +1,10 @@
 import sys
 
-from raw_curated_aws_estruturada import agrupa_cidade_vendas, \
-                                        calcula_media_vendas, \
-                                        escreve_arquivo_parquet, \
-                                        leitura_csv, quebra_string_tipo
+from raw_curated_aws_estruturada import (agrupa_cidade_vendas,
+                                        calcula_media_vendas,
+                                        escreve_arquivo_parquet,
+                                        leitura_csv,
+                                        quebra_string_tipo)
 
 
 def main():
