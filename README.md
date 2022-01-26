@@ -1,5 +1,7 @@
 # Raw-To-Curated- AWS Cloud - Pyspark Job
 
+![](https://github.com/san089/Udacity-Data-Engineering-Projects/blob/master/image.jpeg)
+
 Neste repositório você vai encontrar a etapa de movimentação de um determinado arquivo .CSV da Zona Raw, realizando algumas transformações e agregações, e escrevendo no formato .PARQUET na Zona Curated, pela **AWS CLOUD** através do OS Linux.
 
 Foram feitas 2 propostas de Job, uma no modelo de `código estruturado` e outra `orientada a objetos` passando parâmetros no spark-submit.
